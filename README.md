@@ -29,5 +29,6 @@
   <a target="_blank" href="https://github.com/LucasPeixotg/asteroidsMultiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=asteroidsMultiplayer&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/sometime_todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=sometime_todo&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/aStarPathfinding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=aStarPathfinding&theme=dark"/></a>
+  
 </div>
   
