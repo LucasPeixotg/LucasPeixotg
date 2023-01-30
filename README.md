@@ -13,7 +13,7 @@
 <div align="center">
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,10 +27,11 @@
 
 <h2>Alguns projetos...</h2>
 <div align="center">
-  <a target="_blank" href="https://github.com/LucasPeixotg/genius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=genius&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/asteroidsMultiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=asteroidsMultiplayer&theme=dark"/></a>
-  <a target="_blank" href="https://github.com/LucasPeixotg/taskist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=taskist&theme=dark"/></a>
+  <a target="_blank" href="https://github.com/LucasPeixotg/genius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=genius&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/aStarPathfinding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=aStarPathfinding&theme=dark"/></a>
+  <a target="_blank" href="https://github.com/LucasPeixotg/taskist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=taskist&theme=dark"/></a>
+  
   
 </div>
   
