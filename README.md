@@ -30,9 +30,8 @@
 <h2>Alguns projetos...</h2>
 <div align="center">
   <a target="_blank" href="https://github.com/LucasPeixotg/asteroidsMultiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=asteroidsMultiplayer&theme=dark"/></a>
-  <a target="_blank" href="https://github.com/LucasPeixotg/jingle-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=jingle-backend&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/aStarPathfinding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=aStarPathfinding&theme=dark"/></a>
-  <a target="_blank" href="https://github.com/LucasPeixotg/jingle-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=jingle-frontend&theme=dark"/></a>
+  <a target="_blank" href="https://github.com/LucasPeixotg/social-media-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=social-media-app&theme=dark"/></a>
   
   
 </div>
