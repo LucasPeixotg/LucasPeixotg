@@ -1,5 +1,5 @@
 
-<h1>Oii!!! Eu sou o Lucas Peixoto</h1><br/>
+<h1>Lucas Peixoto</h1><br/>
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasPeixotg&&count_private=true&hide_rank=true&theme=dark&show_icons=true"/>
