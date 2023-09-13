@@ -12,10 +12,15 @@
 
 <div align="center">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />        
+</div>
+<div align="center">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
 </div>
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -32,7 +37,7 @@
   <a target="_blank" href="https://github.com/LucasPeixotg/asteroidsMultiplayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=asteroidsMultiplayer&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/aStarPathfinding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=aStarPathfinding&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/social-media-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=social-media-app&theme=dark"/></a>
-  
+  <a target="_blank" href="https://github.com/LucasPeixotg/BookWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=BookWise&theme=dark"/></a>
   
 </div>
   
