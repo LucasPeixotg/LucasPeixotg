@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning Golang and Microservices
+# 👋 Hi, I'm Lucas Peixoto!
+🎓 I’m currently studying Computer Science at UNICAMP<br>🌱 And learning Golang and Microservices on my own
 
 <br></br>
 ## 🌐 Socials:
