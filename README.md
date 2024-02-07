@@ -23,6 +23,6 @@
   <a target="_blank" href="https://github.com/LucasPeixotg/asteroidsMultiplayer"><img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=asteroidsMultiplayer&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/aStarPathfinding"><img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=aStarPathfinding&theme=dark"/></a>
   <a target="_blank" href="https://github.com/LucasPeixotg/social-media-app"><img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=social-media-app&theme=dark"/></a>
-  <a target="_blank" href="https://github.com/LucasPeixotg/BookWise"><img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=BookWise&theme=dark"/></a>
+  <a target="_blank" href="https://github.com/LucasPeixotg/coconut"><img width=500 src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPeixotg&repo=coconut&theme=dark"/></a>
   
 </div>
