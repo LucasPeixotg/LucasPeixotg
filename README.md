@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Peixoto!
 # 💫 About Me:
-🎓 I’m currently studying Computer Science at UNICAMP<br><br>🌱 And learning Machine Learning on my own
+🎓 I’m currently studying Computer Science at UNICAMP<br>
 
 
 ## 🌐 Socials:
